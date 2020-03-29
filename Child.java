@@ -9,3 +9,11 @@ public class Child extends Parent{
 		return null;
 	}
 }
+
+class Test{
+	
+	public static void main(String[] args){
+		
+		
+	}
+}
